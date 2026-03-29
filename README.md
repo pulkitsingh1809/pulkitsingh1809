@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Pulkit Singh
 
-<!--
-**pulkitsingh1809/pulkitsingh1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** Mechanical Engineering (AI & Robotics)  
+📅 **Year:** First Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a result-driven student and I want to learn AutoCAD and improve my technical skills.
+
+---
+
+## 💻 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🎯 Goals
+- Learn AutoCAD 🛠️  
+- Improve programming skills 💻  
+- Work on AI & Robotics projects 🤖  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
